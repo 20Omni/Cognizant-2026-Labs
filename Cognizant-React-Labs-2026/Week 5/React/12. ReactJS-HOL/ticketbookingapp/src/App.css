@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 8px 18px;
+  margin-top: 20px;
+}
